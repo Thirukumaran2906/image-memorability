@@ -14,7 +14,7 @@ Progress in estimating visual memorability has been limited by the small scale a
 ![alt text](https://github.com/vinotharjun/LargeScaleImageMemorability/blob/master/Photos/model.png)
 ## Result of analsyis
 ![](https://github.com/vinotharjun/LargeScaleImageMemorability/blob/master/Photos/comparision.png)
-
+ 
 ## Result Plots 
 
 ![](https://github.com/vinotharjun/LargeScaleImageMemorability/blob/master/Photos/grids.png)
