@@ -1,4 +1,4 @@
-# HEATMAP
+# Django and Flask implementation of the Image memorability prediction 
 
 ### STEPS
 * Start the API
